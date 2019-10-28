@@ -1,0 +1,7 @@
+/home/yuchao/catkin_ws/src/tello_video/h264decoder/build/CMakeFiles/install/strip.dir
+/home/yuchao/catkin_ws/src/tello_video/h264decoder/build/CMakeFiles/install/local.dir
+/home/yuchao/catkin_ws/src/tello_video/h264decoder/build/CMakeFiles/h264decoder.dir
+/home/yuchao/catkin_ws/src/tello_video/h264decoder/build/CMakeFiles/edit_cache.dir
+/home/yuchao/catkin_ws/src/tello_video/h264decoder/build/CMakeFiles/rebuild_cache.dir
+/home/yuchao/catkin_ws/src/tello_video/h264decoder/build/CMakeFiles/install.dir
+/home/yuchao/catkin_ws/src/tello_video/h264decoder/build/CMakeFiles/list_install_components.dir
