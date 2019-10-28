@@ -34,7 +34,7 @@ cd ~/catkin_ws/src/tello_video
 python main.py
 ```
 
-![main](./figure/main.jpg)
+![见./figure/main.jpg](./figure/main.jpg)
 
 - 在GUI界面里点击snapshot可以保存照片，用于相机标定。
 
@@ -46,7 +46,7 @@ python main.py
 
 - 点击“open command panel”，可以打开控制面板：
 
-  ![panel](./figure/panel.jpg)
+  ![见./figure/panel.jpg](./figure/panel.jpg)
 
   - Take Off
   - Land
