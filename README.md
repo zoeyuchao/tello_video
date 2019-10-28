@@ -76,3 +76,20 @@ From <https://github.com/DaWelter/h264decoder>.
 A c++ based class that decodes raw h264 data. This module interacts with python language via python-libboost library, and its decoding functionality is based on ffmpeg library. 
 
 After compilation, a libh264decoder.so or libh264decoder.pyd file will be placed in the working directory so that the main python file can reference it. 
+
+## 4.其他系统
+
+- 如果是windows的同学：
+
+	进入 "install\Windows" 文件夹，运行 "windows_install.bat" 。
+
+- 如果是Mac的同学：
+
+1. Make sure you have the latest Xcode command line tools installed. If not, you might need to update your OS X and XCode to the latest version in order to compile the h264 decoder module
+2. Go to the "install\Mac" folder folder in command line, run
+
+```
+   cd tello_video\install\Mac
+   chmod a+x ./mac_install.sh
+   ./mac_install.sh
+```
