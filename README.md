@@ -34,7 +34,15 @@ python main.py
 ```
 
 - 在GUI界面里点击snapshot可以保存照片，用于相机标定。
+
+  - 将照片保存在calib文件夹下，该文件夹下有calibration.py文件用于标定，标定方法是：
+
+    ```
+    python calibration.py
+    ```
+
 - 打开控制面板，可以控制飞机：
+
   - Take Off
   - Land
   - Flip (in forward, backward, left and right direction)
@@ -47,6 +55,7 @@ python main.py
       - **[key-s]** move down 20cm
       - **[key-a]** rotate counter-clockwise by 30 degree
       - **[key-d]** rotate clockwise by 30 degree
+
 - You can also adjust the **distance** and **degree** via the trackbar and hit the "reset distance" or "reset degree" button to customize your own control.
 
 ## 3.Tips
