@@ -1,4 +1,4 @@
 libh264decoder.so
 *.pyc
-/lib264decoder/build
+/h264decoder/build
 /calib/*.jpg

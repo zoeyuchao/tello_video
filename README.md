@@ -30,6 +30,7 @@ cp libh264decoder.so ../../
 
 ```
 conda activate tello
+cd ~/catkin_ws/src/tello_video
 python main.py
 ```
 
