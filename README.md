@@ -91,7 +91,7 @@ After compilation, a libh264decoder.so or libh264decoder.pyd file will be placed
 
 - 如果是windows的同学：
 
-	进入 "install\Windows" 文件夹，运行 "windows_install.bat" 。
+	进入 "install\Windows" 文件夹，运行 "install.bat" 。
 
 - 如果是Mac的同学：
 
