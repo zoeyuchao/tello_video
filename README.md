@@ -34,6 +34,8 @@ cd ~/catkin_ws/src/tello_video
 python main.py
 ```
 
+![ https://github.com/zoeyuchao/tello_video/figure/main.png]()
+
 - 在GUI界面里点击snapshot可以保存照片，用于相机标定。
 
   - 将照片保存在calib文件夹下，该文件夹下有calibration.py文件用于标定，标定方法是：
@@ -42,7 +44,9 @@ python main.py
     python calibration.py
     ```
 
-- 打开控制面板，可以控制飞机：
+- 点击“open command panel”，可以打开控制面板：
+
+  ![ https://github.com/zoeyuchao/tello_video/figure/panel.png]()
 
   - Take Off
   - Land
